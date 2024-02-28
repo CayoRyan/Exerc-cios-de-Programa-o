@@ -9,3 +9,5 @@ Aprimore suas habilidades de programação com uma variedade de exercícios prá
 - [Exercício 3: Ordenação por Inserção](insertion-sort/)
 
 Sinta-se à vontade para explorar e contribuir com novos exercícios!
+
+FEITO EM PYTHON
